@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 ## 初始化
 ################################################################################
 
@@ -25,7 +25,7 @@ define config.check_conflicting_properties = True
 ## 界面中文本的颜色。
 
 ## 整个界面中使用的强调色，用于标记和突出显示文本。
-define gui.accent_color = '#0099cc'
+define gui.accent_color = '#ff8fa3'
 
 ## 当文本按钮既未被选中也未被悬停时使用的颜色。
 define gui.idle_color = '#888888'
@@ -34,7 +34,7 @@ define gui.idle_color = '#888888'
 define gui.idle_small_color = '#aaaaaa'
 
 ## 当按钮和滑条被悬停时使用的颜色。
-define gui.hover_color = '#66c1e0'
+define gui.hover_color = '#ffb3c1'
 
 ## 当文本按钮被选中但非焦点时使用的颜色。当一个按钮为当前屏幕或设置选项值时，会
 ## 处于选中状态。
@@ -45,8 +45,8 @@ define gui.insensitive_color = '#8888887f'
 
 ## 滑条未填充的部分使用的颜色。这些颜色不直接使用，但在重新生成条形图像文件时使
 ## 用。
-define gui.muted_color = '#003d51'
-define gui.hover_muted_color = '#005b7a'
+define gui.muted_color = '#5c3a42'
+define gui.hover_muted_color = '#7a4f58'
 
 ## 对话和菜单选择文本使用的颜色。
 define gui.text_color = '#ffffff'
